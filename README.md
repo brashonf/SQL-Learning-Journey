@@ -81,13 +81,3 @@ Project: Restricted Access Database
 📊 Projects
 The projects in this repository correspond to each milestone topic. They demonstrate the practical application of SQL skills and serve as a portfolio for future employers.
 
-Project Name	Description	Link
-Bookstore Database	Single-table queries and sorting/filtering	Project Link
-Customer Orders Database	Joining tables and retrieving related data	Project Link
-Sales Summary Database	Aggregating and grouping data	Project Link
-Employee Management Database	Data manipulation and transaction management	Project Link
-Employee Analysis	Complex filtering with subqueries	Project Link
-Performance Optimized Database	Using views and indexes to optimize performance	Project Link
-Event Management Database	Database normalization and design	Project Link
-Discount Calculation Functions	Stored procedures and UDFs for business logic	Project Link
-Restricted Access Database	Setting up permissions and roles	Project Link
