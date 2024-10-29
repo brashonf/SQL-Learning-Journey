@@ -5,20 +5,20 @@ Welcome to my SQL learning journey!
 My goal is to transition into a data-centric career by building a solid foundation in SQL and relational database management. Follow along as I tackle core SQL topics, practice with projects, and share my achievements.
 
 🗂️ Table of Contents
-Overview
-Learning Goals
-Milestones
-Basics of SQL and Data Retrieval
-Working with Multiple Tables
-Data Aggregation and Grouping
-Data Manipulation (DML)
-Subqueries and Advanced Filtering
-Views and Indexing
-Database Design and Normalization
-User-defined Functions and Stored Procedures
-Security and Permissions
-Projects
-Resources
+-Overview
+-Learning Goals
+-Milestones
+-Basics of SQL and Data Retrieval
+-Working with Multiple Tables
+-Data Aggregation and Grouping
+-Data Manipulation (DML)
+-Subqueries and Advanced Filtering
+-Views and Indexing
+-Database Design and Normalization
+-User-defined Functions and Stored Procedures
+-Security and Permissions
+-Projects
+-Resources
 
 📚 Overview
 In this repository, I’ll document my journey in SQL, demonstrating my growing skills through code, notes, and milestone projects. The focus is on practical applications of SQL concepts that I can directly use in real-world scenarios, especially in data analysis and database management.
